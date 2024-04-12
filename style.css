@@ -1,0 +1,58 @@
+*{
+box-sizing: border-box;
+}
+
+h2{
+    margin-top: 85px;
+    margin-left: 141px;
+}
+table{
+    padding-left: 140px;
+}
+
+th{
+    border: 1px solid ;
+    width: 300px;
+    background-color: #f9f9f9;
+}
+td{
+    border: 1px solid;
+    
+    width: 444px;
+    
+}
+.orem{
+    width: 77px;
+    height: 57px;
+    text-align: center;
+    
+    
+}
+    .wep{
+        width: 77px;
+        height: 57px;
+        
+       
+    }
+    .op{
+        padding-left: 100px;
+        width: 276px;
+        color: red;
+        border-color: black;
+    }
+.box{
+    width: 250px;
+}
+    button{
+        background-color:#FFd43a;
+        width: 80px;
+    margin-left: 90px;
+    border: none;
+    height: 30px;
+    }
+    .omeg{
+        width: 276px;
+    }
+    .lorem{
+        width: 250px;
+    }
